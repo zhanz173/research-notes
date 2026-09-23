@@ -1,3 +1,15 @@
 @use "./variables.scss" as *;
 
-// put your custom CSS here!
+// Quiet, paper-like styling for a long-form research notebook.
+body { line-height: 1.7; }
+article { font-size: 1.05rem; }
+.article-title { letter-spacing: -0.035em; line-height: 1.13; font-size: clamp(2.2rem, 5vw, 3.5rem); }
+.page-title { font-size: 1.6rem; letter-spacing: -0.025em; }
+article h2 { margin-top: 2.2rem; letter-spacing: -0.02em; line-height: 1.25; }
+article img { border-radius: 8px; background: white; }
+article table { font-size: 0.94rem; }
+.notebook-eyebrow { font-family: var(--bodyFont); font-size: 0.73rem; letter-spacing: 0.17em; font-weight: 700; color: var(--secondary); margin-top: 2rem; }
+.notebook-principles { display: flex; flex-wrap: wrap; gap: 0.6rem; margin: 1.8rem 0 2.5rem; }
+.notebook-principles span { padding: 0.35rem 0.75rem; border: 1px solid var(--lightgray); border-radius: 4px; color: var(--secondary); font-size: 0.8rem; }
+article a.internal { background-color: transparent; }
+article a.internal:hover { text-decoration: underline; }
