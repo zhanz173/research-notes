@@ -1,12 +1,12 @@
 ---
-title: Zhenyu Zhang
+title: Mostly about EEG
 description: Notes
 cssclasses:
   - research-home
 ---
 ## About me
 
-I am a machine learning  engineer / software engineer working at the intersection of **machine learning, biomedical signal processing, and scientific computing**.
+I am a machine learning engineer / software engineer working at the intersection of **machine learning, biomedical signal processing, and scientific computing**.
 
 I am currently completing an MSc at Simon Fraser University, where my research focuses on machine learning for large-scale clinical EEG data. My work includes representation learning, ordinal prediction, signal processing, and modeling uncertainty in routine clinical data.
 
@@ -25,6 +25,16 @@ The site is written primarily in Obsidian and published as an interconnected set
 
 ## Projects
 
+### Are uncertain EEG reports noisy labels or borderline signals?
+
+**EEG · classification · uncertainty · 2026**
+
+Whether low-confidence EEG reports reflect noisy labels or genuinely borderline EEG evidence.
+Using frozen LaBraM and REVE representations, we found that uncertain cases tend to sit closer to the normal–abnormal decision boundary and have more mixed neighborhoods of confident normal and abnormal EEGs. At the same time, a smaller subset shows strong disagreement between the report and the surrounding feature-space evidence suggesting label noise.
+
+[[Are uncertain EEG reports noisy labels or borderline signals|Read the experiment →]]
+
+---
 ### EEG classification better needs control studies
 
 **EEG · classification · 2025**

@@ -1,7 +1,14 @@
 {
+  "Are uncertain EEG reports noisy labels or borderline signals.md": "6eff01a11b75ae21b6e89274acab7f07f20842055562462ecd4f8ed618343514",
   "assets/classification-roc.png": "dc96fccdd6ace152778bfa170b27da8631edf4d79f177e25b7d290486f778d78",
   "assets/diagnosis-age-umap.png": "462ad3f91021a3468f7055621257f96fd3e783ff08047c7da07f452e1f3c2148",
+  "assets/EEG_report_confidence/certainty_anchor_probe.png": "304dd9c16cda8c596ebd349a55a0601df1ba5ebb3d029a08024a5a6775a83cfb",
+  "assets/EEG_report_confidence/certainty_cka.png": "db64173b2606f6afe9c130434810c022f58076f34ca28abdbdc13831edbe5760",
+  "assets/EEG_report_confidence/certainty_cka_pca_sensitivity.png": "64d2c6932d89f3cd6a5b2b2c7884258a9763db955c986c289d7e7c435009cee1",
+  "assets/EEG_report_confidence/certainty_direct_groupings.png": "224ba43c1a6c45a3ca3e67165ed411a2af1e0a53215ccd2cba512a1b10984fe9",
+  "assets/EEG_report_confidence/certainty_manifold_pca.png": "71fc30e08d195f14ce6ba975ad8a3ac73ce259ddc48c36704e0930b554630b28",
+  "assets/EEG_report_confidence/certainty_signatures.png": "f51a7b216bad561eb1d9461d6ddb0e0bb5b7c8f80ede834be37f94a397812cff",
   "assets/patients-controls-umap.png": "befb8dcfc3ba4d490879f0302164b1c83a76f38fe82b6ce48760d603e68e59b9",
   "EEG classification better needs control studies.md": "c6bf23b6073136799008233d29b1fde5db0a44b7eafee8829b3afee846457e17",
-  "index.md": "7e49e32e616828dd3e9955bed1f8dfc4bee311e44242a35b15ec881ec1acd2a6"
+  "index.md": "3c5c82920861d788f7048c6bcd45ad6a259eb4dc6ea5f9d37d4d6d3c34a4963d"
 }
